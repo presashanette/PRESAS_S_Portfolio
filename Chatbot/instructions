@@ -1,0 +1,51 @@
+1. Download Necessary Files
+    - Python. More instructions can be found at https://www.python.org/downloads/
+    - Prolog. More instructions can be found at https://www.swi-prolog.org/download/stable
+
+2. Enter prompt after the program outputs "You:"
+
+Valid Statement Prompts:
+"___ and ___ are siblings.",
+"___ is a sister of ___.",
+"___ is the mother of ___.",
+"___ is a grandmother of ___."
+"___ is a child of ___."
+"___ is a daughter of ___."
+"___ is an uncle of ___."
+"___ is a brother of ___."
+"___ is the father of ___."
+"___ and ___ are the parents of ___."
+"___ is a grandfather of ___."
+"(.+?) are children of (.+?)\."
+"___ is a son of ___."
+"___ is an aunt of ___."
+
+Valid Question Prompts:
+"are ___ and ___ siblings?"
+"is ___ a sister of ___?"
+"is ___ a brother of ___?"
+"is ___ the mother of ___?"
+"is ___ the father of ___?"
+"are ___ and ___ the parents of ___?"
+"is ___ a grandmother of ___?"
+"is ___ a daughter of ___?"
+"is ___ a son of ___?"
+"is ___ a child of ___?"
+"who are the children of ___?"
+"is ___ an uncle of ___?"
+"who are the siblings of ___?"
+"who are the sisters of ___?"
+"who are the brothers of ___?"
+"who is the mother of ___?"
+"who is the father of ___"
+"who are the parents of ___?"
+"is ___ a grandfather of ___?"
+"who are the daughters of ___?"
+"who are the sons of ___?"
+"are ___, , and ___ children of ___?"
+"is ___ an aunt of ___?"
+"are ___ and ___ relatives?"
+"is ___ female?"
+"is ___ male?"
+
+3. Enter "quit" or "exit" to end the program.
